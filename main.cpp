@@ -1,7 +1,7 @@
 /* Example of a class called Circle, which is used to demonstrate how classes work and show the difference between
 	public and private variables
 
-	by cvsnakelover 
+	by tedders83
 */
 
 #include <iostream>
